@@ -8,13 +8,13 @@
     "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Packages\\packages-lock.json"
   ],
   "outputs": {
-    "com.unity.collab-proxy@2.9.3": {
-      "name": "com.unity.collab-proxy",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.collab-proxy",
-      "fingerprint": "ab839cc7d2adf143e5378baf46edc31cbc5d84f7",
-      "editorCompatibility": "2021.3.0f1",
-      "version": "2.9.3",
-      "source": "registry"
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.2d.sprite",
+      "fingerprint": "6e37a90069af6bceba270d5e592cd6f3521c7a27",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
     },
     "com.unity.feature.2d@2.0.1": {
       "name": "com.unity.feature.2d",
@@ -23,20 +23,12 @@
       "version": "2.0.1",
       "source": "builtin"
     },
-    "com.unity.ide.rider@3.0.31": {
-      "name": "com.unity.ide.rider",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.ide.rider",
-      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
-      "editorCompatibility": "2019.2.6f1",
-      "version": "3.0.31",
-      "source": "registry"
-    },
-    "com.unity.ide.visualstudio@2.0.22": {
+    "com.unity.ide.visualstudio@2.0.23": {
       "name": "com.unity.ide.visualstudio",
       "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.ide.visualstudio",
-      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
       "editorCompatibility": "2019.4.25f1",
-      "version": "2.0.22",
+      "version": "2.0.23",
       "source": "registry"
     },
     "com.unity.inputsystem@1.11.2": {
@@ -63,22 +55,6 @@
       "version": "17.0.3",
       "source": "builtin"
     },
-    "com.unity.test-framework@1.4.5": {
-      "name": "com.unity.test-framework",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.test-framework",
-      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
-      "editorCompatibility": "2019.4.0a10",
-      "version": "1.4.5",
-      "source": "registry"
-    },
-    "com.unity.timeline@1.8.7": {
-      "name": "com.unity.timeline",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.timeline",
-      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
-      "editorCompatibility": "2019.3.0a1",
-      "version": "1.8.7",
-      "source": "registry"
-    },
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.ugui",
@@ -86,14 +62,6 @@
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
       "source": "builtin"
-    },
-    "com.unity.visualscripting@1.9.5": {
-      "name": "com.unity.visualscripting",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.visualscripting",
-      "fingerprint": "1b53f46e931bea668e53f1feb0ac9138170c9455",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.9.5",
-      "source": "registry"
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
@@ -299,14 +267,6 @@
       "version": "1.0.0",
       "source": "builtin"
     },
-    "com.unity.ext.nunit@2.0.5": {
-      "name": "com.unity.ext.nunit",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.ext.nunit",
-      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.0.5",
-      "source": "registry"
-    },
     "com.unity.render-pipelines.core@17.0.3": {
       "name": "com.unity.render-pipelines.core",
       "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.render-pipelines.core",
@@ -331,6 +291,14 @@
       "version": "17.0.3",
       "source": "builtin"
     },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
+    },
     "com.unity.2d.animation@10.1.4": {
       "name": "com.unity.2d.animation",
       "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.2d.animation",
@@ -354,14 +322,6 @@
       "editorCompatibility": "2023.1.0a1",
       "version": "9.0.3",
       "source": "registry"
-    },
-    "com.unity.2d.sprite@1.0.0": {
-      "name": "com.unity.2d.sprite",
-      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.2d.sprite",
-      "fingerprint": "6e37a90069af6bceba270d5e592cd6f3521c7a27",
-      "editorCompatibility": "2019.2.0a1",
-      "version": "1.0.0",
-      "source": "builtin"
     },
     "com.unity.2d.spriteshape@10.0.7": {
       "name": "com.unity.2d.spriteshape",
@@ -434,6 +394,14 @@
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\Beckett McKeough\\Documents\\Unity Projects Spartasoft Studio\\team-fish-going-gently\\Going Gently\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
     },
     "com.unity.2d.common@9.0.7": {
       "name": "com.unity.2d.common",

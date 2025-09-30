@@ -96,7 +96,7 @@ namespace UnityEditor.U2D
         {
             LazyInit();
 
-            if (UnityEngine.Rendering.GraphicsSettings.defaultRenderPipeline != null)
+            if (UnityEngine.Rendering.GraphicsSettings.renderPipelineAsset != null)
             {
                 EditorGUILayout.HelpBox(Style.srpWarning, MessageType.Warning);
 
